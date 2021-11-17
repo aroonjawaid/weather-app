@@ -1,3 +1,3 @@
 # Weather App 
 
-Live - https://aroonjawaid.github.io/weather-app/
+Live demo - https://aroonjawaid.github.io/weather-app/
