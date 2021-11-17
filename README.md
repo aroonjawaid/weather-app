@@ -1,3 +1,3 @@
-# Weather App Example
+# Weather App 
 
-Example app for the Weather App Project.
+Live - https://aroonjawaid.github.io/weather-app/
